@@ -14,6 +14,7 @@ Scripts are provided for compiling the respective programs in their directories.
 For `task1/task1.c`:
 ```bash
 ./task1/compile1.sh
+```
 
 For `task12/task2.c`:
 ```bash
