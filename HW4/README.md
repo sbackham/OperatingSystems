@@ -1,6 +1,6 @@
 # Experimenting with Virtual Address Space of Linux Processes
 
-This project shows the workings of Linux's virtual address space by providing practical utilities that interact with and manipulate the memory and file system, and show how Linux processes manage memory and files.
+This project shows the workings of Linux's virtual address space by providing practical utilities that interact with and manipulate the memory and file system, and shows how Linux processes manage memory and files.
 
 ## Components
 
